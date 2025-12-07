@@ -1,4 +1,4 @@
-# Gabriel Enrique Ordoñez Hernandez
+# Gabriel Ordonez Hernandez
 ## Technical Program Manager | AI Infrastructure & MLOps | Building GenAI at Scale
 
 **Ottawa, Canada (EST) • [go@gabrielordonez.com](mailto:go@gabrielordonez.com) • [LinkedIn](https://linkedin.com/in/gordonez)**
