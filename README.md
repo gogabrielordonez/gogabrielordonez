@@ -7,7 +7,7 @@
 
 ### Summary
 
-I'm not a researcher who lives in a notebook. I'm the **TPM who takes the researcher's notebook and scales it to 10 million users without crashing the network**. I did it for 5G infrastructure, and now I'm doing it for LLMs and GenAI systems.
+I'm not a researcher who lives in a notebook. I'm the **TPM who takes the researcher's notebook and scales it to 10 million users without crashing the network**. I did it for computing infrastructure, and now I'm doing it for LLMs and GenAI systems.
 
 **15+ years** delivering large-scale distributed systems. **Decade-long evolution**: heuristic automation (2011) → predictive ML (Huawei Global Innovation Award, 2017) → GenAI (2024).
 
